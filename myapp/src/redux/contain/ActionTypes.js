@@ -1,0 +1,7 @@
+export const ActionTypes = {
+    ADD_ORDER: "ADD-ORDER",
+    REMOVE_ORDER: "REMOVE-ORDER",
+    ADD_PRODUCT: "ADD_PRODUCT",
+    PRODUCT_DETAIL: "PRODUCT_DETAIL",
+
+};
